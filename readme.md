@@ -85,4 +85,4 @@ will show you greeting from this Service 1 via Feign-client.
 ### Baeldung's blog
 * [Spring Cloud Configuration](https://www.baeldung.com/spring-cloud-configuration)
 * [Spring Cloud Netflix Eureka](https://www.baeldung.com/spring-cloud-netflix-eureka)
-* [spring Cloud Bootstrapping](https://www.baeldung.com/spring-cloud-bootstrapping)
+* [Spring Cloud Bootstrapping](https://www.baeldung.com/spring-cloud-bootstrapping)
