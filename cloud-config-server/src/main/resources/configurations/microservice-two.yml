@@ -1,0 +1,8 @@
+server:
+  port: 9992
+
+spring:
+  application:
+    name: microservice-two
+
+greetings: "Micro-service #2 greets you!"

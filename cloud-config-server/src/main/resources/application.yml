@@ -1,0 +1,26 @@
+server:
+  port: 48888
+
+eureka:
+  client:
+    region: default
+    registryFetchIntervalSeconds: 5
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+
+spring:
+  application:
+    name: config_server
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/configurations
+  profiles:
+    # use internal configuration files, not from remote Git repository
+    active: native
+
+#security:
+#  user:
+#    name: root
+#    password: root$123

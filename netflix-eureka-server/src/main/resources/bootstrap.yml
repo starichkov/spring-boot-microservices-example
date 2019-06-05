@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      name: netflix-eureka-server
+      uri: http://localhost:48888
