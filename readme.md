@@ -78,11 +78,11 @@ GET http://localhost:9992/hello1
 ```
 will show you greeting from this Service 1 via Feign-client.
 
-### Useful Links
+## Useful Links
 * [Spring Cloud Netflix Eureka - The Hidden Manual](https://blog.asarkar.org/technical/netflix-eureka/)
 * [Eureka, Zuul, and Cloud Configuration - Local Development](http://engineering.pivotal.io/post/local-eureka-zuul-cloud_config-with-spring/) (Spring Boot 2)
 
-##### Baeldung's blog
+### Baeldung's blog
 * [Spring Cloud Configuration](https://www.baeldung.com/spring-cloud-configuration)
 * [Spring Cloud Netflix Eureka](https://www.baeldung.com/spring-cloud-netflix-eureka)
 * [spring Cloud Bootstrapping](https://www.baeldung.com/spring-cloud-bootstrapping)
